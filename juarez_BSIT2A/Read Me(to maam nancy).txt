@@ -1,0 +1,18 @@
+Dear Maam Nancy,
+
+In case of forbidden access please go to this link to unrestrict your xampp from accessing any .php files:
+https://stackoverflow.com/questions/17816732/xampp-access-forbidden-php
+
+In case of wrong credentials in logging in ,possibly the the password has a preceding space.
+
+the name of the file is www. (i use xamp)
+to login 
+click:
+www
+fproj
+enter
+
+....now you are about to be in session
+list of password is in login.txt
+
+

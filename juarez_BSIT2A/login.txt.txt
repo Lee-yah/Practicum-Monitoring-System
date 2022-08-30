@@ -1,0 +1,37 @@
+the following only has the list of passwords and usernames.
+
+-DATABASE (none)
+$servername ="localhost";$username="root"; $password= "";$dbname = "practicumdb"
+
+
+pattern(username,password)
+
+
+-SYSTEM
+admin
+
+admina,admina
+admin,administrator
+admin21,admin
+
+
+instructor
+teacherIS,teacher -highly recommended(more information)
+teacher2,teacher
+teacher3,teacher3
+teacher4,teacher4
+teacherSix,Teach@123
+teacherSeven,Teach@123
+Ferdinand,Teach@123
+nikola,Teach@123
+
+
+
+student
+ley,2000-01-01 - highly recommended (more information)
+2000-0101,2000-0101
+2000-00023,Stud@123
+2018-01234,Stud@123
+2005-00022,Stud@123
+
+
