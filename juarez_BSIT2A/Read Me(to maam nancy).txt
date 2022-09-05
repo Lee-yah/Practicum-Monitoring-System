@@ -10,7 +10,11 @@ to login
 click:
 www
 fproj
-enter
+enter.php
+
+or after putting the fproj folder on htdocs folder use this local URL
+
+to test the site the URL must http://localhost/fproj/enter.php 
 
 ....now you are about to be in session
 list of password is in login.txt
